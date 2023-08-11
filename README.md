@@ -1,4 +1,14 @@
-### Hi there 👋
+👋 **Hello there!** I'm Chetan Deshmukh, a passionate front-end designer. I thrive on turning creative concepts into delightful, responsive websites that leave a lasting impression.
+
+### 🔧 Skills & Expertise
+
+- **Web Design**: Transforming ideas into stunning designs using HTML5, CSS3, and modern design principles.
+
+- **Responsive Development**: Ensuring seamless user experiences across various devices and screen sizes.
+
+- **User-Centric Approach**: Focusing on creating intuitive and accessible interfaces that prioritize user needs.
+
+- **UI/UX Design**: Collaborating closely with UX teams to create engaging and interactive user interfaces.
 
 <!--
 **chetandeshmukh25/chetandeshmukh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
